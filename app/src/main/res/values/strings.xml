@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorldApplication</string>
+    <string name="nameStmtString">Hi, my name is XXX.</string>
+</resources>
